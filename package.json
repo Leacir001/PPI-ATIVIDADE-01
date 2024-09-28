@@ -1,0 +1,24 @@
+{
+  "name": "ppi-atividade-01",
+  "version": "1.0.0",
+  "description": "atividade01",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leacir001/PPI-ATIVIDADE-01.git"
+  },
+  "author": "Leacir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leacir001/PPI-ATIVIDADE-01/issues"
+  },
+  "homepage": "https://github.com/Leacir001/PPI-ATIVIDADE-01#readme",
+  "dependencies": {
+    "express": "^4.21.0",
+    "express-session": "^1.18.0"
+  }
+}
